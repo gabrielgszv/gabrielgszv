@@ -12,7 +12,7 @@
   <img align="center" alt="Gabriel-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Gabriel-Pokeball"  height="50" width="50"
- src="https://w7.pngwing.com/pngs/147/288/png-transparent-pixelated-yellow-star-minecraft-super-mario-bros-pixel-art-pixel-art-text-super-mario-bros-symmetry-thumbnail.png">
+ src="estrela.png">
 </div>
 
   
